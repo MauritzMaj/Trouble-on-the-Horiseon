@@ -76,7 +76,6 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
@@ -141,6 +140,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    max-width: 850px;
+    float: left;
 }
 
 .online-reputation-management {
@@ -150,6 +151,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    max-width: 850px;
+    float: left;
+
 }
 
 .social-media-marketing {
@@ -159,6 +163,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    max-width: 850px;
+    float: left;
+
 }
 
 .search-engine-optimization img {
